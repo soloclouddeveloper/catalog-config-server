@@ -15,7 +15,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/soloclouddeveloper/catalog-config-server
+          uri: https://github.com/soloclouddeveloper/bookshop-config
           default-label: main
           timeout: 5
           clone-on-start: true
